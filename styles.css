@@ -48,15 +48,6 @@ footer {
   margin: 10% auto;
 }
 
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
-.red {
-  color: red;
-}
-
 .drum {
   outline: none;
   border: 10px solid #404B69;
